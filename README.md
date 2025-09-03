@@ -15,9 +15,8 @@ A simple and intuitive **To-Do List application** that helps users manage their 
 ---
 
 ## 💻 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend (optional)**: Node.js / Express  
-
+- **Frontend**: HTML, CSS, JavaScript
+  
 ---
 
 ## 🚀 Getting Started
